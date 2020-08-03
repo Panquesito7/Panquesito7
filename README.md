@@ -8,6 +8,32 @@ I'm currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and
 
 I work for the [TheAlgorithms](#thealgorithms-collaborator-and-member) organization.
 
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
+
+<a href="https://github.com/Panquesito7/vehicle_mash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panquesito7&repo=vehicle_mash&theme=algolia"/>
+</a>
+
+<a href="https://github.com/Panquesito7/lib_mount">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panquesito7&repo=lib_mount&theme=algolia"/>
+</a>
+
+<a href="https://github.com/MT-CTF/capturetheflag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MT-CTF&repo=capturetheflag&show_owner=true&theme=algolia"/>
+</a>
+
+<a href="https://github.com/minetest-mods/minetest-mods.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=minetest-mods.github.io&show_owner=true&theme=algolia"/>
+</a>
+
+<a href="https://github.com/MinetestForFun/server-minetestforfun">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinetestForFun&repo=server-minetestforfun&show_owner=true&theme=algolia"/>
+</a>
+
+<a href="https://github.com/teeworlds/teeworlds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teeworlds&repo=teeworlds&show_owner=true&theme=algolia"/>
+</a>
+
 ## Programming
 
 ### [C++](https://isocpp.org/)
