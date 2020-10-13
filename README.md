@@ -62,10 +62,10 @@ implemented in various languages such as [C++](https://github.com/TheAlgorithms/
 
 ##### _Want to know more? Check its [official webiste](https://thealgorithms.github.io/)_
 
-I am helping reviewing pull requests in the [C++](https://github.com/TheAlgorithms/C-Plus-Plus) repository.\
+I am helping reviewing pull requests in the [C](https://github.com/TheAlgorithms/C)/[C++](https://github.com/TheAlgorithms/C-Plus-Plus) repository.\
 I have fixed various issues, and have improved some algorithms.
 
-I'm one of the people who most contributed ([11th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
+I'm one of the people who most contributed ([9th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
 Always searching for new issues, and improving algorithms to follow guidelines.
 
 ### [Lua](https://www.lua.org)
@@ -75,7 +75,7 @@ Always searching for new issues, and improving algorithms to follow guidelines.
 [Minetest](https://www.minetest.net) is an open-source voxel game engine.\
 I have made 2 Lua mods for the open source game [Minetest](https://www.minetest.net):
 
-- [Cloud Items](https://github.com/Panquesito7/cloud_items)
+- [Cloud Items](https://github.com/minetest-mods/cloud_items)
 - [Enhanced Builtin Commands](https://github.com/minetest-mods/enhanced_builtin_commands)
 
 ##### Contributed projects
@@ -121,5 +121,7 @@ the enemy and capture their flag before they capture yours._
 
 ## Contact
 
-Want to know more, discuss, or talk about something?\
-📧 E-mail: halfpacho@gmail.com
+Want to know more, discuss, or talk about something?
+
+- 📧 E-mail: halfpacho@gmail.com
+- 💬 IRC (Freenode): [Panquesito7](ircs://chat.freenode.net:6697/Panquesito7)
