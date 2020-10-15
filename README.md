@@ -10,8 +10,8 @@ I work for the [TheAlgorithms](#thealgorithms-collaborator-and-member) organizat
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
 
-<a href="https://github.com/Panquesito7/vehicle_mash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panquesito7&repo=vehicle_mash&theme=algolia"/>
+<a href="https://github.com/minetest-mods/vehicle_mash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=vehicle_mash&show_owner=true&theme=algolia"/>
 </a>
 
 <a href="https://github.com/Panquesito7/lib_mount">
