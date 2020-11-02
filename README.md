@@ -1,5 +1,30 @@
 # Hi, I'm David 👋
 
+<br/>
+
+<a href="https://gitlab.com/Panquesito7">
+  <img align="left" alt="David Leal's GitLab profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA">
+  <img align="left" alt="David Leal's YouTube profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+<a href="https://dev.to/panquesito7">
+  <img align="left" alt="David Leal's DEV profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+
+<a href="https://connect.unity.com/u/david-leal">
+  <img align="left" alt="David Leal's Unity profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
+</a>
+
+<a href="https://stackoverflow.com/users/14539444/david-leal">
+  <img align="left" alt="David Leal's Stackoverflow profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+
+<br/>
+<br/>
+
 Thanks for viewing my profile!\
 I am an open source contributor and programmer.
 
