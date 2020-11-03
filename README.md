@@ -31,7 +31,7 @@ I am an open source contributor and programmer.
 I widely create [C++](https://isocpp.org/) and [Lua](https://www.lua.org/) programs.\
 I'm currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/).
 
-I work for the [TheAlgorithms](#thealgorithms-collaborator-and-member) organization.
+I work for the [TheAlgorithms](#collaborator-and-developer-at-thealgorithms) organization.
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
 
@@ -80,7 +80,7 @@ They are just for fun, to learn, and to practice. 🙂
 ![GUI calculator](https://user-images.githubusercontent.com/51391473/87486360-c673d100-c600-11ea-9bd5-3612ea591401.png)
 ![Programs in C++](https://user-images.githubusercontent.com/51391473/87488783-d393be80-c606-11ea-9c03-ec9ddfdb637a.png)
 
-#### [TheAlgorithms](https://thealgorithms.github.io/) collaborator and member
+#### Collaborator and developer at [TheAlgorithms](https://thealgorithms.github.io/)
 
 [TheAlgorithms](https://thealgorithms.github.io/) is an open source organization that has many algorithms\
 implemented in various languages such as [C++](https://github.com/TheAlgorithms/C-Plus-Plus), [Python](https://github.com/TheAlgorithms/Python), [Java](https://github.com/TheAlgorithms/Java), [GoLang](https://github.com/TheAlgorithms/Go), and many, many more.
