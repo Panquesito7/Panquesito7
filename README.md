@@ -1,5 +1,7 @@
 # Hi, I'm David 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=Panquesito7&color=blue)
+
 <br/>
 
 <a href="https://gitlab.com/Panquesito7">
