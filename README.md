@@ -24,6 +24,10 @@
   <img align="left" alt="David Leal's Stackoverflow profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 
+<a href="https://discordapp.com/users/759196962595143691">
+  <img align="left" alt="David Leal's Discord profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
 <br/>
 <br/>
 
