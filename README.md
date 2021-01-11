@@ -28,6 +28,10 @@
   <img align="left" alt="David Leal's Discord profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 
+<a href="https://twitter.com/David_Leal_7">
+  <img align="left" alt="David Leal's Twitter profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+
 <br/>
 <br/>
 
