@@ -49,8 +49,8 @@ I work for the [TheAlgorithms](https://github.com/Panquesito7#cc-maintainer-at-t
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=vehicle_mash&show_owner=true&theme=algolia"/>
 </a>
 
-<a href="https://github.com/Panquesito7/lib_mount">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Panquesito7&repo=lib_mount&theme=algolia"/>
+<a href="https://github.com/minetest-mods/lib_mount">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=lib_mount&show_owner=true&theme=algolia"/>
 </a>
 
 <a href="https://github.com/MT-CTF/capturetheflag">
