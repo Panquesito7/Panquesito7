@@ -33,6 +33,10 @@
   <img align="left" alt="David Leal's Twitter profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
+<a href="https://www.reddit.com/user/Panquesito7">
+  <img align="left" alt="David Leal's Reddit profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+
 <br/>
 <br/>
 
