@@ -40,6 +40,8 @@
 <br/>
 <br/>
 
+#### **Please check out my [Developer Story](https://stackoverflow.com/story/Panquesito7) for more information about what I do!**
+
 Thanks for viewing my profile!\
 I am an open source contributor and programmer.
 
@@ -103,10 +105,10 @@ implemented in various languages such as [C++](https://github.com/TheAlgorithms/
 ##### _Want to know more? Check its [official webiste](https://thealgorithms.github.io/)_
 
 I am helping reviewing pull requests in the [C](https://github.com/TheAlgorithms/C)/[C++](https://github.com/TheAlgorithms/C-Plus-Plus) repository.\
-I have fixed various issues, and have improved some algorithms.
+I have fixed various issues and have improved some algorithms.
 
-I'm one of the people who most contributed ([9th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
-Always searching for new issues, and improving algorithms to follow guidelines.
+I'm one of the people who most contributed ([6th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
+Always searching for new issues and improving algorithms to follow guidelines.
 
 ### [Lua](https://www.lua.org)
 
@@ -133,7 +135,7 @@ Some of these projects are:
 ##### Maintaining projects
 
 I'm currently maintaining the [TPR](https://github.com/ChaosWormz/teleport-request) (teleport request) mod.\
-It is a very popular mod used in many servers.
+It's a popular mod used in many servers.
 
 I have added many features such as:
 
@@ -146,7 +148,7 @@ I have added many features such as:
 - [Gamehub](https://github.com/shivajiva101/minetest-gamehub) support
 - And [much more](https://github.com/ChaosWormz/teleport-request/commits?author=Panquesito7) changes...
 
-I update it frequently to fix bugs, and use the latest functions, making sure\
+I update it frequently to fix bugs and use the latest functions, making sure\
 it works with the latest [Minetest](https://www.minetest.net) version.
 
 ##### Where you can find me on
