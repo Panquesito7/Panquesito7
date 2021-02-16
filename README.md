@@ -40,7 +40,7 @@
 <br/>
 <br/>
 
-#### **Please check out my [Developer Story](https://stackoverflow.com/story/Panquesito7) for more information about what I do!**
+### **Please check out my [Developer Story](https://stackoverflow.com/story/Panquesito7) for more information about what I do!**
 
 Thanks for viewing my profile!\
 I am an open source contributor and programmer.
