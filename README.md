@@ -1,7 +1,8 @@
 # Hi, I'm David 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=Panquesito7&color=blue)
-[![Donate on Liberapay](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
+[![Income](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
+[![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Panquesito7/donate)
 
 <br/>
 
