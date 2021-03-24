@@ -49,8 +49,6 @@ I am an open source contributor and programmer.
 I widely create [C++](https://isocpp.org/) and [Lua](https://www.lua.org/) programs.\
 I'm currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) and [Unity](https://unity.com/).
 
-I work for the [TheAlgorithms](https://github.com/Panquesito7#cc-maintainer-at-thealgorithms) organization.
-
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
 
 <a href="https://github.com/minetest-mods/vehicle_mash">
@@ -73,8 +71,16 @@ I work for the [TheAlgorithms](https://github.com/Panquesito7#cc-maintainer-at-t
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinetestForFun&repo=server-minetestforfun&show_owner=true&theme=algolia"/>
 </a>
 
-<a href="https://github.com/teeworlds/teeworlds">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=teeworlds&repo=teeworlds&show_owner=true&theme=algolia"/>
+<a href="https://github.com/shivajiva101/minetest-gamehub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shivajiva101&repo=minetest-gamehub&show_owner=true&theme=algolia"/>
+</a>
+
+<a href="https://github.com/minetest-mods/teleport-request">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=minetest-mods&repo=teleport-request&show_owner=true&theme=algolia"/>
+</a>
+
+<a href="https://github.com/cornernote/minetest-skyblock">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cornernote&repo=minetest-skyblock&show_owner=true&theme=algolia"/>
 </a>
 
 ## Programming
@@ -92,10 +98,13 @@ I have made many [C++](https://isocpp.org/) algorithms such as:
 - Trees
 - And much more...
 
-I've made other [C++](https://isocpp.org/) programs, such as calculators, employees and more.\
+I've made other [C++](https://isocpp.org/) programs, such as calculators, employees, and more.\
 They are just for fun, to learn, and to practice. 🙂
 
+**Wanna have access to these and more projects? [Donate!](https://github.com/sponsors/Panquesito7)**
+
 ![GUI calculator](https://user-images.githubusercontent.com/51391473/87486360-c673d100-c600-11ea-9bd5-3612ea591401.png)
+[![Tic Tac Toe](https://user-images.githubusercontent.com/51391473/112220007-5f74d600-8beb-11eb-9af1-003fc9145298.png)](https://dev.to/panquesito7/how-to-create-a-tic-tac-toe-game-in-cli-c-in-windows-3l9g)
 ![Programs in C++](https://user-images.githubusercontent.com/51391473/87488783-d393be80-c606-11ea-9c03-ec9ddfdb637a.png)
 
 #### C/C++ maintainer at [TheAlgorithms](https://thealgorithms.github.io/)
@@ -106,17 +115,17 @@ implemented in various languages such as [C++](https://github.com/TheAlgorithms/
 ##### _Want to know more? Check its [official webiste](https://thealgorithms.github.io/)_
 
 I am helping reviewing pull requests in the [C](https://github.com/TheAlgorithms/C)/[C++](https://github.com/TheAlgorithms/C-Plus-Plus) repository.\
-I have fixed various issues and have improved some algorithms.
+I have fixed various issues and have improved some algorithms. I'm also a maintainer for its website.
 
 I'm one of the people who most contributed ([6th](https://github.com/TheAlgorithms/C-Plus-Plus/graphs/contributors) place).\
-Always searching for new issues and improving algorithms to follow guidelines.
+I'm always searching for new issues and improving algorithms to follow guidelines.
 
 ### [Lua](https://www.lua.org)
 
 #### [Minetest](https://www.minetest.net) modder/player
 
-[Minetest](https://www.minetest.net) is an open-source voxel game engine.\
-I have made 2 Lua mods for the open source game [Minetest](https://www.minetest.net):
+[Minetest](https://www.minetest.net) is an open-source voxel game engine written in C/C++ and Lua.\
+I have made 2 Lua open source mods for the voxel game engine [Minetest](https://www.minetest.net):
 
 - [Cloud Items](https://github.com/minetest-mods/cloud_items)
 - [Enhanced Builtin Commands](https://github.com/minetest-mods/enhanced_builtin_commands)
@@ -135,21 +144,20 @@ Some of these projects are:
 
 ##### Maintaining projects
 
-I'm currently maintaining the [TPR](https://github.com/ChaosWormz/teleport-request) (teleport request) mod.\
-It's a popular mod used in many servers.
+I maintain 5 popular Minetest mods on the [Minetest mods](https://github.com/minetest-mods) organization:
 
-I have added many features such as:
+- [Cloud Items](https://github.com/minetest-mods/cloud_items).
+- [Vehicle Mash](https://github.com/minetest-mods/vehicle_mash).
+- [Library Mount](https://github.com/minetest-mods/lib_mount).
+- [Enhanced Built-in Commands (stale)](https://github.com/minetest-mods/enhanced_builtin_commands).
+- [Teleport request](https://github.com/minetest-mods/teleport-request).
 
-- [Spam prevention](https://github.com/ChaosWormz/teleport-request/pull/37)
-- [`intllib`](https://github.com/minetest-mods/intllib) support
-- Deny [self-sent requests](https://github.com/ChaosWormz/teleport-request/pull/30)
-- Lua [linting](https://github.com/luarocks/luacheck)
-- [`chat2`](https://github.com/minetest-mods/chat2) & [`beerchat`](https://github.com/minetest-beerchat/beerchat) support
-- Added new [warp](https://github.com/ChaosWormz/teleport-request/pull/29) sound
-- [Gamehub](https://github.com/shivajiva101/minetest-gamehub) support
-- And [much more](https://github.com/ChaosWormz/teleport-request/commits?author=Panquesito7) changes...
+These are two other projects that I maintain outside the Minetest Mods organizations:
 
-I update it frequently to fix bugs and use the latest functions, making sure\
+- [Travelnet (fork)](https://github.com/mt-mods/travelnet).
+- [Technic Armor (fork)](https://github.com/mt-mods/technic_armor)
+
+I update these mods frequently to fix bugs and use the latest functions of the API, making sure\
 it works with the latest [Minetest](https://www.minetest.net) version.
 
 ##### Where you can find me on
@@ -167,4 +175,5 @@ the enemy and capture their flag before they capture yours._
 Want to know more, discuss, or talk about something?
 
 - 📧 E-mail: halfpacho@gmail.com
-- 💬 IRC (Freenode): [Panquesito7](ircs://chat.freenode.net:6697/Panquesito7)
+- 💬 Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
+- 🗨 Discord: Panquesito7#3723
