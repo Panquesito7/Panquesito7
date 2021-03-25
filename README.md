@@ -4,29 +4,6 @@
 [![Income](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Panquesito7/donate)
 
-## My Sponsors
-
-Thank you to all those who are supporting my work! 💖\
-_**Note**: You can see all my sponsors [here](https://github.com/sponsors/Panquesito7). Showing up here is **optional**._
-
-**Wanna show up in the list? [Sponsor me](https://github.com/sponsors/Panquesito7) to get listed here!**
-
-<table>
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/Calinou" target="_blank">
-        <img width="150" src="https://avatars.githubusercontent.com/u/180032?s=400&v=4">
-
-**Hugo Locurcio**
-
----
-
- <a href="https://twitter.com/HugoLocurcio"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" height="32px"></a> <a href="https://github.com/Calinou"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <a href="https://gitlab.com/Panquesito7">
@@ -63,6 +40,29 @@ _**Note**: You can see all my sponsors [here](https://github.com/sponsors/Panque
 
 <br/>
 <br/>
+
+## My Sponsors
+
+Thank you to all those who are supporting my work! 💖\
+_**Note**: You can see all my sponsors [here](https://github.com/sponsors/Panquesito7). Showing up here is **optional**._
+
+**Wanna show up in the list? [Sponsor me](https://github.com/sponsors/Panquesito7) to get listed here!**
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://github.com/Calinou" target="_blank">
+        <img width="150" src="https://avatars.githubusercontent.com/u/180032?s=400&v=4">
+
+**Hugo Locurcio**
+
+---
+
+ <a href="https://twitter.com/HugoLocurcio"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" height="32px"></a> <a href="https://github.com/Calinou"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### **Please check out my [Developer Story](https://stackoverflow.com/story/Panquesito7) for more information about what I do!**
 
