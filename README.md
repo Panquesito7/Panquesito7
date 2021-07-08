@@ -4,6 +4,8 @@
 [![Income](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Panquesito7/donate)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Panquesito7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
 <br/>
 
 <a href="https://gitlab.com/Panquesito7">
