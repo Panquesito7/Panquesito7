@@ -1,6 +1,5 @@
 # Hi, I'm David 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=Panquesito7&color=blue)
 [![Income](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Panquesito7/donate)
 
@@ -8,40 +7,34 @@
 
 <br/>
 
-<a href="https://gitlab.com/Panquesito7">
-  <img align="left" alt="David Leal's GitLab profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />
-</a>
+<p align="center">
 
-<a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA">
-  <img align="left" alt="David Leal's YouTube profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+  <a href="https://twitter.com/David_Leal_7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-David%20Leal-blue?logo=twitter&logoColor=blue&color=blue" />
+ </a>
 
-<a href="https://dev.to/panquesito7">
-  <img align="left" alt="David Leal's DEV profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
-</a>
+  <a href="https://gitlab.com/Panquesito7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-Panquesito7-orange?logo=gitlab&logoColor=orange&color=orange" />
+  </a>
 
-<a href="https://connect.unity.com/u/david-leal">
-  <img align="left" alt="David Leal's Unity profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/unity.svg" />
-</a>
+  <a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-David%20Leal-yellow?logo=youtube&logoColor=red&color=yellow" />
+  </a>
 
-<a href="https://stackoverflow.com/users/14539444/david-leal">
-  <img align="left" alt="David Leal's Stackoverflow profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
-</a>
+  <br />
 
-<a href="https://discordapp.com/users/759196962595143691">
-  <img align="left" alt="David Leal's Discord profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-</a>
+  <a href="https://www.reddit.com/user/Panquesito7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Subreddit-Panquesito7-red?logo=reddit&logoColor=red&color=red" />
+  </a>
 
-<a href="https://twitter.com/David_Leal_7">
-  <img align="left" alt="David Leal's Twitter profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+  <a href="https://dev.to/panquesito7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DEV.TO-Panquesito7-black?logo=dev.to&logoColor=white&color=black" />
+  </a>
 
-<a href="https://www.reddit.com/user/Panquesito7">
-  <img align="left" alt="David Leal's Reddit profile" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-
-<br/>
-<br/>
+  <a href="https://stackoverflow.com/users/14539444/david-leal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-David%20Leal-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  </a>
+</p>
 
 ## My Sponsors
 
