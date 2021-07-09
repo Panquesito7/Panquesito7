@@ -53,7 +53,11 @@ _**Note**: You can see all my sponsors [here](https://github.com/sponsors/Panque
 
 ---
 
- <a href="https://twitter.com/HugoLocurcio"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32px" height="32px"></a> <a href="https://github.com/Calinou"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a>
+ <a href="https://twitter.com/HugoLocurcio">
+    <img src="https://img.shields.io/badge/Twitter-Hugo-blue?logo=twitter&logoColor=blue&color=blue" />
+ </a> <a href="https://github.com/Calinou">
+    <img src="https://img.shields.io/badge/GitHub-Calinou-black?logo=github&logoColor=black&color=black" />
+ </a>
       </a>
     </td>
   </tr>
