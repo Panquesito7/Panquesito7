@@ -1,4 +1,5 @@
-# Hi, I'm David 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
+# Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Income](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
 [![Donate](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Panquesito7/donate)
