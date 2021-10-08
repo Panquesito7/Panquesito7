@@ -82,7 +82,7 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 <h2 align="center">Testimonials ❤</h2>
 
-<h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/Panquesito7/Panquesito7/discussions/1">here</a></b> and I'll add it!</h3>
+<h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/Panquesito7/Panquesito7/discussions/3">here</a></b> and I'll add it!</h3>
 
 **[Gabriel Rangel](https://liberapay.com/Methro): Without a doubt one of the best people I have ever seen. Great programmer, very helpful in helping others and certainly a great person both inside and outside of programming. His great intellect made him start studying Lua and at the same time love GitHub as a great learning tool** ❤
 
