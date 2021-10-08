@@ -1,3 +1,100 @@
+<h1 align="center">David Leal</h1>
+
+<h2 align="center">About myself 🗣</h2>
+
+<h3 align="center">Hey there! Thanks for visiting my profile!</h3>
+
+**Since I was 5 years old, I've been using computers and have been learning how to use them. 🖥**\
+**Since I was 7, I made simple videogames using GameMaker to have some fun playing them. 🎮**
+
+About 2 years ago (in 2019), I registered at GitHub to fix a single bug. Yes, just a single bug in a [Minetest](https://minetest.net) [mod](https://github.com/shivajiva101/smartshop),\
+and it has lead me to learn a lot about collaboration, open source, communication, and much more. 🚀
+
+Currently, I maintain a lot of open-source projects and moderate a lot of communities.\
+Some of them are [The Algorithms](https://the-algorithms.com), [EddieHub](https://www.eddiehub.org), [Devicon](https://devicon.dev), [DEVSTRONS'](https://github.com/devstrons), and many more. 💻
+
+In my [Developer Story](https://stackoverflow.com/story/panquesito7), you can see all communities and organizations I have volunteered, worked, and helped in with important titles.\
+Once I'm working in a new organization, I add it to my Developer Story after some months, so you can see new communities I am working on. 🙂
+
+I am always ready and open to work on new and challenging stuff. Whether it's about open-source, Discord moderation, I can do it!\
+I can be working on 5+ projects at the same time without getting stressed. After all, it's something fun that I like to do that benefits other people. It benefits the community: it benefits open-source.
+
+**Do you like the work I do? Would you like to support my work? No matter the amount,\
+your support is what motivates me to keep doing what I do. Even $1 is appreciated.** 💖
+
+<h2 align="center">Contact 📧</h2>
+
+Want to know more, discuss, or talk about anything? 💬
+
+- Discord: Panquesito7#3723
+- Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
+- E-mail: halfpacho@gmail.com
+
+<h2 align="center">Social media 📱</h2>
+
+<br/>
+
+<p align="center">
+
+  <a href="https://twitter.com/David_Leal_7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-David%20Leal-blue?logo=twitter&logoColor=blue&color=blue" />
+ </a>
+
+  <a href="https://gitlab.com/Panquesito7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitLab-Panquesito7-orange?logo=gitlab&logoColor=orange&color=orange" />
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-David%20Leal-yellow?logo=youtube&logoColor=red&color=yellow" />
+  </a>
+
+  <br />
+
+  <a href="https://www.reddit.com/user/Panquesito7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Subreddit-Panquesito7-red?logo=reddit&logoColor=red&color=red" />
+  </a>
+
+  <a href="https://dev.to/panquesito7" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DEV.TO-Panquesito7-black?logo=dev.to&logoColor=white&color=black" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/14539444/david-leal" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/StackOverflow-David%20Leal-orange?logo=stackoverflow&logoColor=orange&color=purple" />
+  </a>
+</p>
+
+<br/>
+
+<h2 align="center">My projects ⚙</h2>
+
+Currently, I don't have many good projects to share, but I have made some Minetest mods\
+such as [Cloud Items](https://github.com/minetest-mods), [Tic Tac Toe in C++](https://github.com/Panquesito7/tic-tac-toe), and some other programs and small projects.
+
+You can also find some more of my projects [**here**](https://panquesito7.github.io/personal_projects). 🙂
+
+<h2 align="center">GitHub Stats 📊</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Panquesito7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
+
+<h2 align="center">Testimonials ❤</h2>
+
+<h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/Panquesito7/Panquesito7/discussions/1">here</a></b> and I'll add it!</h3>
+
+**[Gabriel Rangel](https://liberapay.com/Methro): Without a doubt one of the best people I have ever seen. Great programmer, very helpful in helping others and certainly a great person both inside and outside of programming. His great intellect made him start studying Lua and at the same time love GitHub as a great learning tool** ❤
+
+**[Luke Preston](https://www.linkedin.com/in/luke-preston-1a76011b9): David has been a great pleasure to work with while trying to launch our startup Prajix. One of our goals has been to develop a community on Discord and when David came around things became such a breeze. From setting up the server, to writing up the server guidelines David has done it with no issues. He's also a great source for new idea inspiration and isn't afraid to voice his own thoughts and let you know how you can make the community better; which is yet another unique characteristic most people don't tend to use. Regardless, he has been an immense help with the growth of Prajix and we plan to keep him close as we progress to new heights!**
+
+**Juanjo (Telegram @JuanjoPM_Koci): David is probably the most passionate people I've seen. His nice, generous and gentile personality makes him even more valuable. He's always up to help, whenever you need it, and is a real luck for me to know him** ❤
+
+**[olliy](https://github.com/olliy): David is a trustworthy and friendly dude. Really fun to work with him on projects or just to talk to.**
+
+**[Malte Jürgens](https://github.com/maltejur): David is a really nice guy. I appreciate his work and help in a lot of open source projects.**
+
+<!-- Old profile can be found here below
 # Hi, I'm David 👋
 
 [![Income](https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay)](https://liberapay.com/Panquesito7)
@@ -199,3 +296,5 @@ Want to know more, discuss, or talk about something?
 - 📧 E-mail: halfpacho@gmail.com
 - 💬 Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
 - 🗨 Discord: Panquesito7#3723
+
+-->
