@@ -96,6 +96,8 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 **[Ayaan Khan](https://github.com/ayaankhan98): I appericiate his work, He is a hard-working individual, who completes his work with great enthusiam and dedication with appericiable programming skills. He is helpful to others and provides response almost instantly whenever required.**
 
+**[Rak Laptudirm](https://github.com/raklaptudirm): Makes bad jokes, uses too many GIFs and talks in spanish sometimes. Otherwise nice guy (probably idk).**
+
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
