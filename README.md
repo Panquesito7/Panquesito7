@@ -74,11 +74,14 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 <h2 align="center">GitHub Stats 📊</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Panquesito7&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia)
+<div align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="43%" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=Panquesito7&theme=discord&row=2&column=4"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
+    </a>
+</div>
 
 <h2 align="center">Testimonials ❤</h2>
 
