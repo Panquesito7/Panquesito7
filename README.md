@@ -38,7 +38,7 @@ Want to know more, discuss, or talk about anything? 💬
 
   <a href="https://twitter.com/David_Leal_7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Twitter-David%20Leal-blue?logo=twitter&logoColor=blue&color=blue" />
- </a>
+  </a>
 
   <a href="https://gitlab.com/Panquesito7" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitLab-Panquesito7-orange?logo=gitlab&logoColor=orange&color=orange" />
