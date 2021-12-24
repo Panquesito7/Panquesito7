@@ -14,9 +14,9 @@ Currently, I maintain a lot of open-source projects and moderate a lot of commun
 Some of them are [The Algorithms](https://the-algorithms.com), [EddieHub](https://www.eddiehub.org), [Devicon](https://devicon.dev), [DEVSTRONS'](https://github.com/devstrons), and many more. 💻
 
 In my [Developer Story](https://stackoverflow.com/story/panquesito7), you can see all communities and organizations I have volunteered, worked, and helped in with important titles.\
-Once I'm working in a new organization, I add it to my Developer Story after some months, so you can see new communities I am working on. 🙂
+Once I'm working in a new community/organization, I add it to my Developer Story after some months, so you can see new communities I am working on. 🙂
 
-I am always ready and open to work on new and challenging stuff. Whether it's about open-source, Discord moderation, I can do it!\
+I am always ready and open to work on new and challenging stuff. Whether it's about open-source, Discord moderation, C++ stuff, I can do it!\
 I can be working on 5+ projects at the same time without getting stressed. After all, it's something fun that I like to do that benefits other people. It benefits the community: it benefits open-source.
 
 **Do you like the work I do? Would you like to support my work? No matter the amount,\
