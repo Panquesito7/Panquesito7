@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line -->
 <h1 align="center">David Leal</h1>
 
 <h2 align="center">About myself 🗣</h2>
