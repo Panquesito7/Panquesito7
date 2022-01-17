@@ -106,6 +106,8 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 **[Maxime Kubik](https://github.com/mkubdev): David is a person with an incredible consistency of work. In addition to managing an impressive number of communities, he always takes the time to help and improve everything.**
 
+**[Animesh Pathak](https://github.com/Sonichigo): David is a hard-working individual, who completes his work with great enthusiasm and dedication with appreciable programming skills. He is very helpful and also a part of many open source communities, where he is constantly contributing and helping other folks whenever they need help, there is so much to learn from him. I appreciate his work very much.**
+
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
