@@ -69,7 +69,7 @@ Want to know more, discuss, or talk about anything? 💬
 <h2 align="center">My projects ⚙</h2>
 
 Currently, I don't have many good projects to share, but I have made some Minetest mods\
-such as [Cloud Items](https://github.com/minetest-mods), [Tic Tac Toe in C++](https://github.com/Panquesito7/tic-tac-toe), and some other programs and small projects.
+such as [Cloud Items](https://github.com/minetest-mods), [Tic Tac Toe in C++](https://github.com/Panquesito7/tic-tac-toe), [Memory Game](https://github.com/Panquesito7/memory-game), and some other programs and small projects.
 
 You can also find some more of my projects [**here**](https://panquesito7.github.io/personal_projects). 🙂
 
