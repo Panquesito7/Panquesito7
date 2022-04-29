@@ -23,6 +23,9 @@ I can be working on 5+ projects at the same time without getting stressed. After
 **Do you like the work I do? Would you like to support my work? No matter the amount,\
 your support is what motivates me to keep doing what I do. Even $1 is appreciated.** 💖
 
+<a href="https://liberapay.com/Panquesito7/donate"><img src="https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay"></a>
+<a href="https://liberapay.com/Panquesito7/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+
 <h2 align="center">Contact 📧</h2>
 
 Want to know more, discuss, or talk about anything? 💬
