@@ -3,7 +3,7 @@
 
 <h2 align="center">About myself 🗣</h2>
 
-<h3 align="center">Hey there! Thanks for visiting my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
+<h3 align="center">Hey there! Thanks for visiting my profile! :wave:</h3>
 
 **Since I was 5 years old, I've been using computers and have been learning how to use them. 🖥**\
 **Since I was 7, I made simple videogames using GameMaker to have some fun playing them. 🎮**
