@@ -54,8 +54,8 @@ Want to know more, discuss, or talk about anything? 💬
 
   <br />
 
-  <a href="https://www.reddit.com/user/Panquesito7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Subreddit-Panquesito7-red?logo=reddit&logoColor=red&color=red" />
+  <a href="https://www.quora.com/profile/David-Leal-19-1" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Quora-David Leal-darkred?logo=quora&logoColor=red&color=darkred" />
   </a>
 
   <a href="https://dev.to/panquesito7" target="_blank" rel="noopener noreferrer">
