@@ -115,6 +115,13 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 **Let's support good changes among communities in future; looking forward to seeing your growth in tech!** 💻
 
+**[Yash Daga](https://github.com/YashDaga17):**
+
+**David is really helpful.😌
+He is very nice and friendly. 💕
+He works very hard with his projects to make it successful.
+Glad to know a person like David** 🤗
+
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
