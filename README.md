@@ -117,9 +117,9 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 **[Yash Daga](https://github.com/YashDaga17):**
 
-**David is really helpful.😌
-He is very nice and friendly. 💕
-He works very hard with his projects to make it successful.
+**David is really helpful.😌\
+He is very nice and friendly. 💕\
+He works very hard with his projects to make it successful.\
 Glad to know a person like David** 🤗
 
 <!-- Old profile can be found here below
