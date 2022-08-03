@@ -122,6 +122,10 @@ He is very nice and friendly. 💕\
 He works very hard with his projects to make it successful.\
 Glad to know a person like David** 🤗
 
+**[Aparna Soneja](https://github.com/aparna2071): David is really helpful who helps folks in their open source journey by suggesting changes to their PR in a very friendly way.**
+**He has also approved some of my PRs.**
+**His contributions to various communities are amazing, much to learn from him.**
+
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
