@@ -126,6 +126,9 @@ Glad to know a person like David** 🤗
 **He has also approved some of my PRs.**
 **His contributions to various communities are amazing, much to learn from him.**
 
+**[CodingSpecies](https://github.com/CodingSpecies): David has been there since I began my journey on GitHub, reviewing and supporting my code, and guiding me in the right way in open source. There has never been a pull request I have submitted, without him placing a review and helping me, or approving.
+Thank you David for all your support, and I look forward to collaborating more with you.**
+
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
