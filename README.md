@@ -129,6 +129,8 @@ Glad to know a person like David** 🤗
 **[CodingSpecies](https://github.com/CodingSpecies): David has been there since I began my journey on GitHub, reviewing and supporting my code, and guiding me in the right way in open source. There has never been a pull request I have submitted, without him placing a review and helping me, or approving.
 Thank you David for all your support, and I look forward to collaborating more with you.**
 
+**[Mahin Perwaiz](https://github.com/mahinperwaiz): DAVID is one of the people who encouraged me to get into open-source and GitHub in general. A true legend in my opinion. Being a community manager of 30+ communities is just another level. Having 5000+ contributions on GitHub is no joke. I am really looking forward to get mentored by him and do my first PR.**
+
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
 # Hi, I'm David <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
