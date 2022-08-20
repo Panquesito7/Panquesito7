@@ -91,7 +91,6 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 <h3 align="center">Want to add your testimonial? Feel free to write it <b><a href="https://github.com/Panquesito7/Panquesito7/discussions/3">here</a></b> and I'll add it!</h3>
 
-
 **[Gabriel Rangel](https://liberapay.com/Methro): Without a doubt one of the best people I have ever seen. Great programmer, very helpful in helping others and certainly a great person both inside and outside of programming. His great intellect made him start studying Lua and at the same time love GitHub as a great learning tool** ❤
 
 **[Luke Preston](https://www.linkedin.com/in/luke-preston-1a76011b9): David has been a great pleasure to work with while trying to launch our startup Prajix. One of our goals has been to develop a community on Discord and when David came around things became such a breeze. From setting up the server, to writing up the server guidelines David has done it with no issues. He's also a great source for new idea inspiration and isn't afraid to voice his own thoughts and let you know how you can make the community better; which is yet another unique characteristic most people don't tend to use. Regardless, he has been an immense help with the growth of Prajix and we plan to keep him close as we progress to new heights!**
@@ -132,7 +131,7 @@ Thank you David for all your support, and I look forward to collaborating more w
 
 **[Mahin Perwaiz](https://github.com/mahinperwaiz): DAVID is one of the people who encouraged me to get into open-source and GitHub in general. A true legend in my opinion. Being a community manager of 30+ communities is just another level. Having 5000+ contributions on GitHub is no joke. I am really looking forward to get mentored by him and do my first PR.**
 
-**[Abhay Taras](https://github.com/abhaytaras7): Everywhere I go ,I see David helping communities.His generosity and unassertive nature towards his passion is remarkable.Working with him feels like an opportunity to grasp proficiency.😇**
+**[Abhay Taras](https://github.com/abhaytaras7): Everywhere I go, I see David helping communities. His generosity and unassertive nature towards his passion is remarkable. Working with him feels like an opportunity to grasp proficiency.😇**
 
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
