@@ -131,7 +131,9 @@ Thank you David for all your support, and I look forward to collaborating more w
 
 **[Mahin Perwaiz](https://github.com/mahinperwaiz): DAVID is one of the people who encouraged me to get into open-source and GitHub in general. A true legend in my opinion. Being a community manager of 30+ communities is just another level. Having 5000+ contributions on GitHub is no joke. I am really looking forward to get mentored by him and do my first PR.**
 
-**[Abhay Taras](https://github.com/abhaytaras7): Everywhere I go, I see David helping communities. His generosity and unassertive nature towards his passion is remarkable. Working with him feels like an opportunity to grasp proficiency.😇**
+**[Abhay Taras](https://github.com/abhaytaras7): Everywhere I go, I see David helping communities. His generosity and unassertive nature towards his passion is remarkable. Working with him feels like an opportunity to grasp proficiency.:smirk_cat:**
+
+**[ngdream](https://github.com/ngdream): I am a student and I was impressed by david's work and I would like to work with him one day.😇**
 
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
