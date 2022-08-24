@@ -84,7 +84,7 @@ You can also find some more of my projects [**here**](https://panquesito7.github
 
 <h2 align="center">Testimonials ❤</h2>
 
-<h3 align="center">Want to add your testimonial? Write it <b><a href="https://github.com/Panquesito7/Panquesito7/discussions/3">here</a></b> and I'll add it in the [testimonials file](https://github.com/Panquesito7/Panquesito7/blob/master/TESTIMONIALS.md)!</h3>
+<h3 align="center">Want to add your testimonial? Write it <b><a href="https://github.com/Panquesito7/Panquesito7/discussions/3">here</a></b> and I'll add it in the <a href="https://github.com/Panquesito7/Panquesito7/blob/master/TESTIMONIALS.md">testimonials file</a>!</h3>
 
 <!-- Old profile can be found here below
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+David's+GitHub+Profile!)](https://git.io/typing-svg)
