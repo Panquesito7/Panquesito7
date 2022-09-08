@@ -18,7 +18,7 @@ communities, such as [The Algorithms](https://the-algorithms.com), [Design & Cod
 I am always ready and open to work on new and challenging stuff. Whether it's about open-source, community management/moderation, coding stuff, I can do it!\
 I can be working on 5+ projects at the same time without getting stressed. After all, it's something fun that I like to do that benefits other people. It benefits the community: it benefits open-source.
 
-<a href="https://liberapay.com/Panquesito7/donate"><img src="https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay"></a>
+<a href="https://liberapay.com/Panquesito7/"><img src="https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay"></a>
 <a href="https://liberapay.com/Panquesito7/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 <h2 align="center">Contact 📧</h2>
