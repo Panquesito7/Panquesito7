@@ -43,3 +43,5 @@ Thank you David for all your support, and I look forward to collaborating more w
 **[Abhay Taras](https://github.com/abhaytaras7): Everywhere I go, I see David helping communities. His generosity and unassertive nature towards his passion is remarkable. Working with him feels like an opportunity to grasp proficiency.😇**
 
 **[ngdream](https://github.com/ngdream): I am a student and I was impressed by david's work and I would like to work with him one day.😇**
+
+**[Fais Edathil](https://github.com/E-fais): David is friendly mentor for me , he doesn’t even know me , but he i has helped me to learn open source.**
