@@ -45,3 +45,5 @@ Thank you David for all your support, and I look forward to collaborating more w
 **[ngdream](https://github.com/ngdream): I am a student and I was impressed by david's work and I would like to work with him one day.😇**
 
 **[Fais Edathil](https://github.com/E-fais): David is friendly mentor for me , he doesn’t even know me , but he i has helped me to learn open source.**
+
+**[Suraj Kumar](https://github.com/suraj-996): I came to your profile only today and was amazed to see how hard-working you are and you are doing great in your life. I loved connecting with you and have also started contributing to open source.**
