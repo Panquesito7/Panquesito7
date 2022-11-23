@@ -13,7 +13,7 @@ and it has lead me to learn a lot about collaboration, open source, communicatio
 
 Currently, I'm an active open-source advocate and community moderator in **30+ communities**.
 You can find me on various\
-communities, such as [The Algorithms](https://the-algorithms.com), [Design & Code](https://www.designandcode.us/), [Devicon](https://devicon.dev), [Community Classroom](https://www.commclassroom.org), [Sema](https://semasoftware.com), and many more. 💻
+communities, such as [The Algorithms](https://the-algorithms.com), [Design & Code](https://www.designandcode.us/), [Devicon](https://devicon.dev), [WeMakeDevs](https://www.wemakedevs.org), [WebXDAO](https://webxdao.xyz/), and many more. 💻
 
 I am always ready and open to work on new and challenging stuff. Whether it's about open-source, community management/moderation, coding stuff, I can do it!\
 I can be working on 5+ projects at the same time without getting stressed. After all, it's something fun that I like to do that benefits other people. It benefits the community: it benefits open-source.
