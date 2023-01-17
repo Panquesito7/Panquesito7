@@ -1,5 +1,7 @@
 # Testimonials ♥
 
+### Feel free to submit a testimonial at my [LinkFree](https://github.com/EddieHubCommunity/LinkFree/issues/new?labels=testimonial&template=testimonial.yml&title=New+Testimonial+for+David%20Leal&name=Panquesito7) as well
+
 **[Gabriel Rangel](https://liberapay.com/Methro): Without a doubt one of the best people I have ever seen. Great programmer, very helpful in helping others and certainly a great person both inside and outside of programming. His great intellect made him start studying Lua and at the same time love GitHub as a great learning tool** ❤
 
 **[Luke Preston](https://www.linkedin.com/in/luke-preston-1a76011b9): David has been a great pleasure to work with while trying to launch our startup Prajix. One of our goals has been to develop a community on Discord and when David came around things became such a breeze. From setting up the server, to writing up the server guidelines David has done it with no issues. He's also a great source for new idea inspiration and isn't afraid to voice his own thoughts and let you know how you can make the community better; which is yet another unique characteristic most people don't tend to use. Regardless, he has been an immense help with the growth of Prajix and we plan to keep him close as we progress to new heights!**

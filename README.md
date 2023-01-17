@@ -8,7 +8,7 @@
 **Since I was 5 years old, I've been using computers and have been learning how to use them. 🖥**\
 **Since I was 7, I made simple videogames using GameMaker to have some fun playing them. 🎮**
 
-About 3 years ago (in 2019), I registered at GitHub to fix a single bug. Yes, just a single bug in a [Minetest](https://minetest.net) [mod](https://github.com/shivajiva101/smartshop),\
+About 4 years ago (in 2019), I registered at GitHub to fix a single bug. Yes, just a single bug in a [Minetest](https://minetest.net) [mod](https://github.com/shivajiva101/smartshop),\
 and it has lead me to learn a lot about collaboration, open source, communication, and much more. 🚀
 
 Currently, I'm an active open-source advocate and community moderator in **30+ communities**.
@@ -17,6 +17,8 @@ communities, such as [The Algorithms](https://the-algorithms.com), [Design & Cod
 
 I am always ready and open to work on new and challenging stuff. Whether it's about open-source, community management/moderation, coding stuff, I can do it!\
 I can be working on 5+ projects at the same time without getting stressed. After all, it's something fun that I like to do that benefits other people. It benefits the community: it benefits open-source.
+
+If you like my work, you can either donate via Liberapay or GitHub Sponsors. ❤
 
 <a href="https://liberapay.com/Panquesito7/"><img src="https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay"></a>
 <a href="https://liberapay.com/Panquesito7/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
@@ -29,45 +31,16 @@ Want to know more, discuss, or talk about anything? 💬
 - Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
 - E-mail: halfpacho@gmail.com
 
-<h2 align="center">Social media 📱</h2>
+<h2 align="center">Links and achievements 📱</h2>
 
-<br/>
-
-<p align="center">
-
-  <a href="https://twitter.com/David_Leal_7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-David%20Leal-blue?logo=twitter&logoColor=blue&color=blue" />
-  </a>
-
-  <a href="https://gitlab.com/Panquesito7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitLab-Panquesito7-orange?logo=gitlab&logoColor=orange&color=orange" />
-  </a>
-
-  <a href="https://www.youtube.com/channel/UCcZmWPJygsJ_szWKwTy2wqA" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-David%20Leal-yellow?logo=youtube&logoColor=red&color=yellow" />
-  </a>
-
-  <br />
-
-  <a href="https://www.quora.com/profile/David-Leal-19-1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Quora-David Leal-darkred?logo=quora&logoColor=red&color=darkred" />
-  </a>
-
-  <a href="https://dev.to/panquesito7" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DEV.TO-Panquesito7-black?logo=dev.to&logoColor=white&color=black" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/14539444/david-leal" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/StackOverflow-David%20Leal-orange?logo=stackoverflow&logoColor=orange&color=purple" />
-  </a>
-</p>
+You can check all of my links and milestones on LinkFree: <https://linkfree.eddiehub.io/Panquesito7>
 
 <br/>
 
 <h2 align="center">My projects ⚙</h2>
 
-One of my biggest projects yet is [PanqKart](https://github.com/panqkart/panqkart), a racing game made using the [Minetest Engine](https://www.minetest.net). Here are other projects I've made,\
-such as [Cloud Items](https://github.com/minetest-mods), [Tic Tac Toe in C++](https://github.com/Panquesito7/tic-tac-toe), [Memory Game](https://github.com/Panquesito7/memory-game), and some other programs and small projects.
+Currently, I don't have much projects. However, in the future I'll be creating more community projects!\
+All of my projects can be seen at my GitHub profile or in other organizations, such as [PanqKart](https://github.com/panqkart).
 
 You can also find some more of my projects [**here**](https://panquesito7.github.io/personal_projects). 🙂
 
