@@ -31,11 +31,9 @@ Want to know more, discuss, or talk about anything? 💬
 - Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
 - E-mail: halfpacho@gmail.com
 
-<h2 align="center">Links and achievements 📱</h2>
+<h2 align="center">All links 🚀</h2>
 
-You can check all of my links and milestones on LinkFree: <https://linkfree.eddiehub.io/Panquesito7>
-
-<br/>
+You can check all of my links and milestones on LinkFree: **<https://linkfree.eddiehub.io/Panquesito7>**
 
 <h2 align="center">My projects ⚙</h2>
 
