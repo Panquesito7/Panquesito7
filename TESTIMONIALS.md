@@ -49,3 +49,5 @@ Thank you David for all your support, and I look forward to collaborating more w
 **[Fais Edathil](https://github.com/E-fais): David is friendly mentor for me , he doesn’t even know me , but he i has helped me to learn open source.**
 
 **[Suraj Kumar](https://github.com/suraj-996): I came to your profile only today and was amazed to see how hard-working you are and you are doing great in your life. I loved connecting with you and have also started contributing to open source.**
+
+**[Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009): 🥰 Oh, by chance from searching on Github, I came across your profile by accident. It's quite special. It can be seen that you are a regular contributor to the open source community, very enthusiastic... ⛳ I hope to cooperate with you to develop and contribute more in the future.**
