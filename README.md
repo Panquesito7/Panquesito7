@@ -33,7 +33,7 @@ Want to know more, discuss, or talk about anything? 💬
 
 <h2 align="center">All links 🚀</h2>
 
-You can check all of my links and milestones on LinkFree: **<https://linkfree.eddiehub.io/Panquesito7>**
+You can check all of my links and milestones on LinkFree: **<https://linkfree.io/Panquesito7>**
 
 <h2 align="center">My projects ⚙</h2>
 
