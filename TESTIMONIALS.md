@@ -51,3 +51,5 @@ Thank you David for all your support, and I look forward to collaborating more w
 **[Suraj Kumar](https://github.com/suraj-996): I came to your profile only today and was amazed to see how hard-working you are and you are doing great in your life. I loved connecting with you and have also started contributing to open source.**
 
 **[Tran Nguyen Thuong Truong](https://github.com/thuongtruong1009): Oh, by chance from searching on Github, I came across your profile by accident. It's quite special. It can be seen that you are a regular contributor to the open source community, very enthusiastic... I hope to cooperate with you to develop and contribute more in the future.**
+
+**[Pritu Yadav](https://github.com/Pritu2022): David, aka Panquesito7, is a true gem in the open-source community. With his exceptional technical skills and friendly demeanor, he effortlessly brings people together, listens to diverse perspectives, and leads by example. His dedication to fostering positive change is commendable, and I am excited to witness his remarkable growth in the tech industry.** 💻
