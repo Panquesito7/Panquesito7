@@ -23,24 +23,19 @@ If you like my work, you can either donate via Liberapay or GitHub Sponsors. ❤
 <a href="https://liberapay.com/Panquesito7/"><img src="https://img.shields.io/liberapay/receives/Panquesito7.svg?logo=liberapay"></a>
 <a href="https://liberapay.com/Panquesito7/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
-<h2 align="center">Contact 📧</h2>
+<h2 align="center">Current projects ⚙</h2>
 
-Want to know more, discuss, or talk about anything? 💬
+- [**PanqKart**](https://github.com/panqkart): an open-source racing game built with Minetest (WIP).
+- [**PR Opener Action**](https://github.com/Panquesito7/pr-opener): a GitHub Action that lets you create a pull request with ease (WIP).
+- [**Submodules Alternative**](https://github.com/Panquesito7/submodules-alternative): a Git modules alternative whose purpose is to facilitate cloning (WIP).
+- Other minor projects, such as [**Tic Tac Toe**](https://github.com/Panquesito7/tic-tac-toe) and [**Memory Game**](https://github.com/Panquesito7/terminal-memory_game).
+- **Doxygen: Easy Documentation** (coming soon!).
 
-- Discord: Panquesito7#3723
-- Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
-- E-mail: halfpacho@gmail.com
+I'll be creating more open-source projects soon. Stay tuned! 🙂
 
 <h2 align="center">All links 🚀</h2>
 
 You can check all of my links and milestones on LinkFree: **<https://linkfree.io/Panquesito7>**
-
-<h2 align="center">My projects ⚙</h2>
-
-Currently, I don't have much projects. However, in the future I'll be creating more community projects!\
-All of my projects can be seen at my GitHub profile or in other organizations, such as [PanqKart](https://github.com/panqkart).
-
-You can also find some more of my projects [**here**](https://panquesito7.github.io/personal_projects). 🙂
 
 <h2 align="center">GitHub Stats 📊</h2>
 
@@ -52,6 +47,14 @@ You can also find some more of my projects [**here**](https://panquesito7.github
         <img width="55%" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Panquesito7&show_icons=true&count_private=true&include_all_commits=true&theme=algolia"/>
     </a>
 </div>
+
+<h2 align="center">Contact 📧</h2>
+
+Want to know more, discuss, or talk about anything? 💬
+
+- Discord: Panquesito7#3723
+- Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
+- E-mail: halfpacho@gmail.com
 
 <h2 align="center">Testimonials ❤</h2>
 
