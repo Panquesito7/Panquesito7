@@ -26,7 +26,6 @@ If you like my work, you can either donate via Liberapay or GitHub Sponsors. ❤
 <h2 align="center">Current projects ⚙</h2>
 
 - [**PanqKart**](https://github.com/panqkart): an open-source racing game built with Minetest (WIP).
-- [**PR Opener Action**](https://github.com/Panquesito7/pr-opener): a GitHub Action that lets you create a pull request with ease (WIP).
 - [**Submodules Alternative**](https://github.com/Panquesito7/submodules-alternative): a Git modules alternative whose purpose is to facilitate cloning (WIP).
 - Other minor projects, such as [**Tic Tac Toe**](https://github.com/Panquesito7/tic-tac-toe) and [**Memory Game**](https://github.com/Panquesito7/terminal-memory_game).
 - **Doxygen: Easy Documentation** (coming soon!).
