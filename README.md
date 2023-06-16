@@ -51,7 +51,7 @@ You can check all of my links and milestones on LinkFree: **<https://linkfree.io
 
 Want to know more, discuss, or talk about anything? 💬
 
-- Discord: Panquesito7#3723
+- Discord: panquesito7 (previously Panquesito7#3723).
 - Element/Matrix: [Panquesito7](https://matrix.to/#/@panquesito7:matrix.org)
 - E-mail: halfpacho@gmail.com
 
