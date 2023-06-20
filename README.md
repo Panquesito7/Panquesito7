@@ -30,7 +30,8 @@ If you like my work, you can either donate via Liberapay or GitHub Sponsors. ❤
 - Other minor projects, such as [**Tic Tac Toe**](https://github.com/Panquesito7/tic-tac-toe) and [**Memory Game**](https://github.com/Panquesito7/terminal-memory_game).
 - **Doxygen: Easy Documentation** (coming soon!).
 
-I'll be creating more open-source projects soon. Stay tuned! 🙂
+I'll be creating more open-source projects soon. Stay tuned! 🙂\
+You can check all of my **Minetest projects** on my [**ContentDB profile**](https://content.minetest.net/users/Panquesito7/).
 
 <h2 align="center">All links 🚀</h2>
 
