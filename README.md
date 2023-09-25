@@ -35,7 +35,7 @@ You can check all of my **Minetest projects** on my [**ContentDB profile**](http
 
 <h2 align="center">All links 🚀</h2>
 
-You can check all of my links and milestones on LinkFree: **<https://linkfree.io/Panquesito7>**
+You can check all of my links and milestones on LinkFree: **<https://www.biodrop.io/Panquesito7>**
 
 <h2 align="center">GitHub Stats 📊</h2>
 
